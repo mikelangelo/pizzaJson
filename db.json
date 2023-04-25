@@ -3,13 +3,12 @@
     {
       "id": 1,
       "customer": {
-         "name": "John Smith",
-         "address": "123 E Dawn Street, Chicago",
-         "region": "15",
+         "name": "Bob Bobson",
+         "address": "123 Elm St, Chicago, IL",
          "zipcode": "60606",
          "phone": "7085012137",
-         "email": "jsmith@hotmail.com",
-         "message": "Please cut the pizza in 12"
+         "email": "BobBobson@bob.com",
+         "message": "Please leave pizza on the table by the front door."
       },
       "pizzas": [
         {
