@@ -1,0 +1,113 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "customer": {
+         "name": "John Smith",
+         "address": "123 E Dawn Street, Chicago",
+         "region": "15",
+         "zipcode": "60606",
+         "phone": "7085012137",
+         "email": "jsmith@hotmail.com",
+         "message": "Please cut the pizza in 12"
+      },
+      "pizzas": [
+        {
+         "crust": "small",
+         "toppings": [
+             "pepperoni",
+             "sausage",
+             "onions",
+             "olives"
+         ],
+         "price": "8.03"
+        },
+        {
+         "crust": "medium",
+         "toppings": [
+             "green peppers",
+             "mushrooms",
+             "onions",
+             "olives"
+         ],
+         "price": "11.11"
+        }
+      ]
+    }
+  ],
+  "toppings": 
+[
+    {
+        "topping": "extra cheese",
+        "small": "0.80",
+        "medium": "1.00",
+        "large": "1.30"
+    },
+    {
+        "topping": "pepperoni",
+        "small": "0.80",
+        "medium": "1.00",
+        "large": "1.30"
+    },
+    {
+        "topping": "sausage",
+        "small": "0.80",
+        "medium": "1.00",
+        "large": "1.30"
+    },
+    {
+        "topping": "bacon",
+        "small": "1.00",
+        "medium": "1.20",
+        "large": "1.50"
+    },
+    {
+        "topping": "tuna",
+        "small": "1.20",
+        "medium": "1.50",
+        "large": "1.80"
+    },
+    {
+        "topping": "olives",
+        "small": "0.40",
+        "medium": "0.60",
+        "large": "0.90"
+    },
+    {
+        "topping": "onions",
+        "small": "0.30",
+        "medium": "0.50",
+        "large": "0.80"
+    },
+    {
+        "topping": "green peppers",
+        "small": "0.30",
+        "medium": "0.50",
+        "large": "0.80"
+    },
+    {
+        "topping": "mushrooms",
+        "small": "0.80",
+        "medium": "1.00",
+        "large": "1.30"
+    },
+    {
+        "topping": "pineapple",
+        "small": "1.80",
+        "medium": "2.00",
+        "large": "2.30"
+    },
+    {
+        "topping": "spinach",
+        "small": "0.50",
+        "medium": "0.80",
+        "large": "1.30"
+    },
+    {
+        "topping": "jalapeños",
+        "small": "0.90",
+        "medium": "1.50",
+        "large": "2.30"
+    }
+  ]
+}
