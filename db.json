@@ -2,7 +2,8 @@
   "users": [
     {
       "id": 1,
-      "name": "Bob"
+      "fname": "Bob",
+      "lname": "Skywalker"
     }
     ],
   "orders": [
